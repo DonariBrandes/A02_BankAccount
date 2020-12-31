@@ -14,7 +14,7 @@ package edu.uwp.cs.csci242.assignments.bankaccount;
  */
 public class Bank {
     public static void main(String[] args) {
-
+        System.out.println("Hello Changes");
         //create instances of each account for Jared Burgess
         Account account1 = new Account("1", "Jared Burgess", 13000);
         Checking checkingAct1 = new Checking("1", "Jared Burgess", 2000);
